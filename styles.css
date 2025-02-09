@@ -19,10 +19,10 @@
 }
 
 .hero-image {
-    background-image: url('images/hero-image.jpg'); /* Replace with your actual image path */
-    background-size: cover; /* Ensures the image covers the entire area */
-    background-position: center; /* Centers the image */
-    height: 100vh; /* Full viewport height */
+    background-image: url('imgs/hero-image.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
